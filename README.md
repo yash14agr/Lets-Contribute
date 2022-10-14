@@ -18,7 +18,7 @@ Follow these steps
 7. **Hola !! you made your First PR !!**
 
 #  Dil Maange More ??
-### Want to conttribute more ??
+### Want to contribute more ??
 1. Hop on to practice problems on Geeks For Geeks.
 2. Solve any of the problems and contribute your solution into the Code Folder.
 3. In the folder make another folder of your name.
