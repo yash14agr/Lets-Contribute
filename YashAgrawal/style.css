@@ -1,0 +1,10 @@
+#image-goku{
+    width: 20rem;
+
+}
+
+.main{
+    /* display: flex; */
+    /* align-items: center; */
+    align-content: center;  
+}
